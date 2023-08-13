@@ -1,7 +1,6 @@
-# ChatGPTTelegramBot
+# ChatGPT TelegramBot
 
-[![Latest Version on Packagist]][link-packagist]
-[![Total Downloads]][link-downloads]
+Implement Telegram bot that integrates with ChatGPT using Laravel
 
 ## Table of Contents
 
@@ -120,12 +119,6 @@ php artisan set:webhook
 
 ## Usage
 
-Implement chatgpt + telegram
-
 ## Contact
 
 For questions and inquiries, you can reach me at [hiep.giapvan@gmail.com](mailto:hiep.giapvan@gmail.com).
-
-
-[link-packagist]: https://packagist.org/packages/
-[link-downloads]: https://packagist.org/packages/
